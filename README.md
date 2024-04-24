@@ -1,0 +1,1 @@
+Polynomial regression is to predict dependant variable which can not be fir by linear line. Here I produced a polynomial regression with one variable. one can use the same method for multiple variables.
